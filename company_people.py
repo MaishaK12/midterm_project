@@ -1,3 +1,7 @@
+# Once you have written the classes, write a program that creates an object of the
+# ProductionWorker class and prompts the user to enter data for each of the object's data attributes. 
+# Store the data in the object, then use its accessor methods to retrieve it and display it on the screen.
+
 from ProductionWorker import ProductionWorker
 
 # Prompt user for ProductionWorker's information
