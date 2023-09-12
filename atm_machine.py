@@ -1,5 +1,11 @@
-# Account class taken from Lab 5; has been modified a bit since Lab 5's had logical error
+# Account class taken from Lab 5
 # id is 0
+
+# Create ten accounts in a list with the ids 0, 1, ..., 9, and an initial balance of $100. 
+# The system prompts the user to enter an id. If the id is entered incorrectly, ask the user to enter the correct id. 
+# Once an id is accepted, the main menu is displayed, as shown in the sample run. 
+# You can enter a choice of 1 for viewing the current balance, 2 for withdrawing money, 3 for depositing money, and 4 for exiting the main menu. 
+# Once you exit, the system will prompt for an id again. So, once the system starts, it won't stop
 
 class Account:
     # Constructor
