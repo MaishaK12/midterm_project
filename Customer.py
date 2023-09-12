@@ -1,4 +1,7 @@
-# Write a class named Person with data attributes for a person's name, address, and telephone number
+# Sub class of Person class
+# The Customer class should have a data attribute for a customer number and a Boolean data attribute 
+# indicating whether the Customer wishes to be on a mailing list. 
+#  Finally, within the same file, demonstrate an instance of the Customer class in a simple program.
 
 from Person import Person
 
