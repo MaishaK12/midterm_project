@@ -1,3 +1,4 @@
+# Subclass of the Employee class
 # The ProductionWorker class should keep data attributes for the following information:
 #     Shift number (an integer, such as 1, 2, or 3)
 #     Hourly pay rate
