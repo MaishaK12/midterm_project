@@ -1,3 +1,7 @@
+# Write an Employee class that keeps data attributes for the following pieces of information:
+#     Employee name
+#     Employee number
+
 # Class Employee holds employee name, and number
 class Employee:
     # Constructor
