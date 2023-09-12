@@ -1,3 +1,7 @@
+# The ShiftSupervisor class should keep a data attribute for the annual
+# salary and a data attribute for the yearly production bonus that a shift supervisor has earned. 
+# Within the same file, demonstrate the class by writing a program that uses a ShiftSupervisor object.
+
 from Employee import Employee
 
 
