@@ -1,3 +1,9 @@
+# The ProductionWorker class should keep data attributes for the following information:
+#     Shift number (an integer, such as 1, 2, or 3)
+#     Hourly pay rate
+# The workday is divided into two shifts: day and night. The shift attribute will hold an integer value representing the shift that the employee works. 
+# The day shift is shift 1 and the night shift is shift 2. 
+
 from Employee import Employee
 
 
