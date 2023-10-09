@@ -13,7 +13,6 @@ Design a class named Triangle that extends the GeometricShape class (See the sam
   • A method named __str__() that returns a string description for the triangle.
     o For example, if we have a triangle with the following sides (3.0, 4.0,5.0), the __str__() method must return: Triangle: side1 = 3.0, side2 = 4.0, and side3 = 5.0
 
-Draw the UML diagrams for the classes Triangle and GeometricShape and implement the Triangle class. 
 Within the same file, write a test program that prompts the user to enter the triangle's three sides, a colour, and 1 or 0 to indicate whether the triangle is filled or not, respectively. 
 The program should create a Triangle object with these sides and set the colour and filled properties using the input. 
 The program should display the triangle's area, perimeter, colour, and True or False to indicate whether the triangle is filled or not.
